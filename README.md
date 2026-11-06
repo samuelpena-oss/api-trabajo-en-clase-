@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Organización de Registros
 
 Node.js + Express + MySQL. Proyecto para la clase de Calidad de Software.
@@ -24,3 +25,6 @@ Ejemplo POST:
 ```json
 { "titulo": "Revisar contrato", "descripcion": "Q4", "estado": "pendiente", "categoria_id": 1, "usuario_id": 1 }
 ```
+=======
+# api-trabajo-en-clase-
+>>>>>>> 479e6c97c0ee14dbc450a66fa9484c02bec42fc9
