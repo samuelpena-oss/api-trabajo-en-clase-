@@ -1,0 +1,15 @@
+{
+  "name": "api-registros",
+  "version": "1.0.0",
+  "description": "API de organización de registros (proyecto para clase de calidad de software)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
