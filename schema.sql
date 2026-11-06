@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS registros_db;
+CREATE DATABASE IF NOT EXISTS ;registros_db
 USE registros_db;
 
 DROP TABLE IF EXISTS registros;
